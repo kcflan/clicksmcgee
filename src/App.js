@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import McGeeCard from './components/ClickCard/ClickCard';
-import Wrapper from './components/GameCard/GameCard';
+import GameCard from './components/GameCard/GameCard';
 import NavBar from './components/Header/Header';
 import mcgees from './mcgees.json';
 import './App.css';
@@ -14,6 +14,9 @@ class App extends Component {
     lose: false
   };
 
+  //shuffle uses a sort function that uses math.random which returns either
+  // a positive number or a negative.  Swaps array locations if negative and
+  // does nothing if positive.
   shuffleMcGees = () => {
     return this.state.mcgees.sort(() => Math.random() - 0.5);
   };
@@ -63,7 +66,7 @@ class App extends Component {
     return (
       <div>
         <NavBar lose={this.state.lose} counter={this.state.count} high_score={this.state.highScore} message={this.state.message} />
-        <Wrapper>
+        <GameCard>
           {this.state.mcgees.map(mcgee => (
             <McGeeCard
               id={mcgee.id}
@@ -76,7 +79,7 @@ class App extends Component {
               lose={this.state.lose}
             />
           ))}
-        </Wrapper>
+        </GameCard>
       </div>
     );
   }
