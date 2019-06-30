@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "750df514c651506293b328144644e4e2",
+    "revision": "9b576418e9a9055f50c8fb0bb3835a60",
     "url": "/clicksmcgee/index.html"
   },
   {
-    "revision": "b05a36b00acd88c33013",
+    "revision": "84f79b923918a5065ddb",
     "url": "/clicksmcgee/static/css/main.2e1cfe92.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clicksmcgee/static/js/2.884c28c3.chunk.js"
   },
   {
-    "revision": "b05a36b00acd88c33013",
-    "url": "/clicksmcgee/static/js/main.1e32267f.chunk.js"
+    "revision": "84f79b923918a5065ddb",
+    "url": "/clicksmcgee/static/js/main.e9771ad9.chunk.js"
   },
   {
     "revision": "0eed7e97ee994db51fbf",
