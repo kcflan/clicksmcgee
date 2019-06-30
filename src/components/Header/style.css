@@ -1,0 +1,24 @@
+nav {
+  background-color: rgba(34, 139, 34, 0.9);
+  width: 100%;
+  z-index: 100;
+  position: fixed;
+  padding: 10px;
+  color: white;
+  display: block;
+}
+
+nav ul {
+  font-size: 28px;
+}
+
+nav li {
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+.message {
+  font-size: 22px;
+}

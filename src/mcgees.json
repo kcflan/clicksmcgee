@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. McGee",
+    "image": "img/1.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Dougie Patches",
+    "image": "img/2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Haystacks",
+    "image": "img/3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "The McBoy's",
+    "image": "img/4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Banksie",
+    "image": "img/5.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Ole Trev",
+    "image": "img/6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Max Stacks",
+    "image": "img/7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Hungry Head Chip",
+    "image": "img/8.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Mikey Pickles",
+    "image": "img/9.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Matty Talents",
+    "image": "img/10.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Kosher Chip",
+    "image": "img/11.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Singin' D",
+    "image": "img/12.jpg",
+    "clicked": false
+  }
+]
