@@ -25,7 +25,7 @@ class App extends Component {
     let { mcgees, count, message, highScore, lose } = this.state;
 
     mcgees = this.shuffleMcGees();
-    console.log(id);
+    // console.log(id);
     for (let i in mcgees) {
       if (mcgees[i].id === id) {
         if (mcgees[i].clicked) {
