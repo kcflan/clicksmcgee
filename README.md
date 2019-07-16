@@ -4,7 +4,7 @@
 A memory game built with React.js
 
 ### Demo
-* GitHub IO: [Clicky Irony](https://bootcampkevin.github.io/clicksmcgee/)
+* GitHub IO: [Clicks McGee](https://bootcampkevin.github.io/clicksmcgee/)
 
 ### Logic
 * Click on images to gain points.
